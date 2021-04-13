@@ -2,7 +2,7 @@
 #include <gtest/gtest.h>
 #include <string>
 #include <ctime>
-#include "TimedDoor.h"
+#include "../include/TimedDoor.h"
 
 TEST(set1, test1) {
   TimedDoor tDoor(5);
